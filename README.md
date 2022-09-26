@@ -1,2 +1,2 @@
 # DEMO111
-about setup
+this contains instructions of project.
